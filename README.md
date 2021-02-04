@@ -1,6 +1,11 @@
 # Hello-Ruby
-HelloWorld.rb file that contains some of the Ruby basics.
 
+Project containing files to learn the basics of the Ruby programming language from:
+
+https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/
+
+
+Basics include:
 > - Printing
 > - String Manipulation
 > - Variables
@@ -12,3 +17,5 @@ HelloWorld.rb file that contains some of the Ruby basics.
 > - FizzBuzz
 > - Methods
 > - Classes
+> - Modules
+> - Mixins
